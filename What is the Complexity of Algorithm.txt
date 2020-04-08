@@ -1,0 +1,28 @@
+ What is the Complexity of Algorithm?
+The complexity of the algorithm is a way to classify how efficient an algorithm is compared to alternative ones. Its focus is on how execution time increases with the data set to be processed. The computational complexity of the algorithm is important in computing.
+
+It is very suitable to classify algorithm based on the relative amount of time or relative amount of space they required and specify the growth of time/ space requirement as a function of input size.
+
+Time complexity
+
+Time complexity is a Running time of a program as a function of the size of the input.
+
+Space complexity
+
+Space complexity analyzes the algorithms, based on how much space an algorithm needs to complete its task. Space complexity analysis was critical in the early days of computing (when storage space on the computer was limited).
+
+Nowadays, the problem of space rarely occurs because space on the computer is broadly enough.
+
+We achieve the following types of analysis for complexity
+
+Worst-case: f(n)
+
+It is defined by the maximum number of steps taken on any instance of size n.
+
+Best-case: f(n)
+
+It is defined by the minimum number of steps taken on any instance of size n.
+
+Average-case: f(n)
+
+It is defined by the average number of steps taken on any instance of size n.
