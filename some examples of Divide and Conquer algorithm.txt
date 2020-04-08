@@ -1,0 +1,7 @@
+Some problems that use Divide and conquer algorithm to find their solution are listed below.
+
+Merge Sort
+Quick Sort
+Binary Search
+Strassen's Matrix Multiplication
+Closest pair (points)
