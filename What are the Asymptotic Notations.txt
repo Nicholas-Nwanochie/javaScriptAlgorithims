@@ -1,0 +1,12 @@
+What are the Asymptotic Notations?
+Asymptotic analysis is used to measure the efficiency of an algorithm that doesn't depend on machine-specific constants and prevents the algorithm from comparing the time taking algorithm. Asymptotic notation is a mathematical tool that is used to represent the time complexity of algorithms for asymptotic analysis.
+
+The three most used asymptotic notation is as follows.
+
+θ Notation
+
+θ Notation defines the exact asymptotic behavior. To define a behavior, it bounds functions from above and below. A convenient way to get Theta notation of an expression is to drop low order terms and ignore leading constants.
+
+Ω Notation
+
+Just like Big O notation provides an asymptotic upper bound, the Ω Notation provides an asymptotic lower bound on a function. It is useful when we have lower bound on time complexity of an algorithm.
