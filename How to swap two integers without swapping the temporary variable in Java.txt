@@ -1,0 +1,9 @@
+It's a very commonly asked trick question. There are many ways to solve this problem.
+
+But the necessary condition is we have to solve it without swapping the temporary variable.
+
+If we think about integer overflow and consider its solution, then it creates an excellent impression in the eye of interviewers.
+
+Suppose we have two integers I and j, the value of i=7 and j=8 then how will you swap them without using a third variable. This is a journal problem.
+
+We need to do this using Java programming constructs. We can swap numbers by performing some mathematical operations like addition, subtraction, multiplication, and division. But maybe it will create the problem of integer overflow.
