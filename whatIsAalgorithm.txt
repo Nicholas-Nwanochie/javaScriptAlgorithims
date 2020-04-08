@@ -1,0 +1,16 @@
+1) What is an algorithm? What is the need for an algorithm?
+An algorithm is a well-defined computational procedure that takes some values or the set of values, as an input and produces a set of values or some values, as an output.
+
+
+Need for Algorithm
+
+The algorithm provides the basic idea of the problem and an approach to solve it. Some reasons to use an algorithm are as follows.
+
+The algorithm improves the efficiency of an existing technique.
+To compare the performance of the algorithm with respect to other techniques.
+The algorithm gives a strong description of requirements and goal of the problems to the designer.
+The algorithm provides a reasonable understanding of the flow of the program.
+The algorithm measures the performance of the methods in different cases (Best cases, worst cases, average cases).
+The algorithm identifies the resources (input/output, memory) cycles required by the algorithm.
+With the help of an algorithm, we can measure and analyze the complexity time and space of the problems.
+The algorithm also reduces the cost of design.
