@@ -1,0 +1,3 @@
+A Hash table is a data structure for storing values to keys of arbitrary type. The Hash table consists of an index into an array by using a Hash function. Indexes are used to store the elements. We assign each possible element to a bucket by using a hash function. Multiple keys can be assigned to the same bucket, so all the key and value pairs are stored in lists within their respective buckets. Right hashing function has a great impact on performance.
+
+To find all anagrams in a dictionary, we have to group all words that contain the same set of letters in them. So, if we map words to strings representing their sorted letters, then we could group words into lists by using their sorted letters as a key.
