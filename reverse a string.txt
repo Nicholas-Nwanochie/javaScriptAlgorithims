@@ -1,0 +1,20 @@
+3) Write an algorithm to reverse a string. For example, if my string is "uhsnamiH" then my result will be "Himanshu".
+Algorithm to reverse a string.
+
+Step1: start
+
+Step2: Take two variable i and j
+
+Step3: do length (string)-1, to set J at last position
+
+Step4: do string [0], to set i on the first character.
+
+Step5: string [i] is interchanged with string[j]
+
+Step6: Increment i by 1
+
+Step7: Increment j by 1
+
+Step8: if i>j then go to step3
+
+Step9: Stop
