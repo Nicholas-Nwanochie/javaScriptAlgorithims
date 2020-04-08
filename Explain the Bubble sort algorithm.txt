@@ -1,0 +1,21 @@
+Bubble sort is the simplest sorting algorithm among all sorting algorithm. It repeatedly works by swapping the adjacent elements if they are in the wrong order.
+
+e.g.
+
+(72538) we have this array for sorting.
+
+Pass1:
+
+(72538) -> (27538) swap 7 and 2.
+(27538) -> (25738) swap 7 and 5.
+(25738) -> (25378) swap 7 and 3.
+(25378) -> (25378) algorithm does not swap 7 and 8 because 7<8.
+
+Pass2:
+
+(25378) -> (25378) algorithm does not swap 2 and 5 because 2<5.
+(25378) -> (23578) swap 3 and 5.
+(23578) -> (23578) algorithm does not swap 5 and 7 because 5<7.
+(23578) -> (23578) algorithm does not swap 7 and 8 because 7<8.
+
+Here, the sorted element is (23578).
